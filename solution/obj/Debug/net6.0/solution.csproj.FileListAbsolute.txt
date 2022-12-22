@@ -1,0 +1,30 @@
+/Users/viktoriaklimaceva/C#/finalWorkBlock1/solution/bin/Debug/net6.0/solution
+/Users/viktoriaklimaceva/C#/finalWorkBlock1/solution/bin/Debug/net6.0/solution.deps.json
+/Users/viktoriaklimaceva/C#/finalWorkBlock1/solution/bin/Debug/net6.0/solution.runtimeconfig.json
+/Users/viktoriaklimaceva/C#/finalWorkBlock1/solution/bin/Debug/net6.0/solution.dll
+/Users/viktoriaklimaceva/C#/finalWorkBlock1/solution/bin/Debug/net6.0/solution.pdb
+/Users/viktoriaklimaceva/C#/finalWorkBlock1/solution/obj/Debug/net6.0/solution.csproj.AssemblyReference.cache
+/Users/viktoriaklimaceva/C#/finalWorkBlock1/solution/obj/Debug/net6.0/solution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoriaklimaceva/C#/finalWorkBlock1/solution/obj/Debug/net6.0/solution.AssemblyInfoInputs.cache
+/Users/viktoriaklimaceva/C#/finalWorkBlock1/solution/obj/Debug/net6.0/solution.AssemblyInfo.cs
+/Users/viktoriaklimaceva/C#/finalWorkBlock1/solution/obj/Debug/net6.0/solution.csproj.CoreCompileInputs.cache
+/Users/viktoriaklimaceva/C#/finalWorkBlock1/solution/obj/Debug/net6.0/solution.dll
+/Users/viktoriaklimaceva/C#/finalWorkBlock1/solution/obj/Debug/net6.0/refint/solution.dll
+/Users/viktoriaklimaceva/C#/finalWorkBlock1/solution/obj/Debug/net6.0/solution.pdb
+/Users/viktoriaklimaceva/C#/finalWorkBlock1/solution/obj/Debug/net6.0/solution.genruntimeconfig.cache
+/Users/viktoriaklimaceva/C#/finalWorkBlock1/solution/obj/Debug/net6.0/ref/solution.dll
+C:\Users\lollo\OneDrive\Рабочий стол\HW\finalWorkBlock1-main\solution\bin\Debug\net6.0\solution.exe
+C:\Users\lollo\OneDrive\Рабочий стол\HW\finalWorkBlock1-main\solution\bin\Debug\net6.0\solution.deps.json
+C:\Users\lollo\OneDrive\Рабочий стол\HW\finalWorkBlock1-main\solution\bin\Debug\net6.0\solution.runtimeconfig.json
+C:\Users\lollo\OneDrive\Рабочий стол\HW\finalWorkBlock1-main\solution\bin\Debug\net6.0\solution.dll
+C:\Users\lollo\OneDrive\Рабочий стол\HW\finalWorkBlock1-main\solution\bin\Debug\net6.0\solution.pdb
+C:\Users\lollo\OneDrive\Рабочий стол\HW\finalWorkBlock1-main\solution\obj\Debug\net6.0\solution.csproj.AssemblyReference.cache
+C:\Users\lollo\OneDrive\Рабочий стол\HW\finalWorkBlock1-main\solution\obj\Debug\net6.0\solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lollo\OneDrive\Рабочий стол\HW\finalWorkBlock1-main\solution\obj\Debug\net6.0\solution.AssemblyInfoInputs.cache
+C:\Users\lollo\OneDrive\Рабочий стол\HW\finalWorkBlock1-main\solution\obj\Debug\net6.0\solution.AssemblyInfo.cs
+C:\Users\lollo\OneDrive\Рабочий стол\HW\finalWorkBlock1-main\solution\obj\Debug\net6.0\solution.csproj.CoreCompileInputs.cache
+C:\Users\lollo\OneDrive\Рабочий стол\HW\finalWorkBlock1-main\solution\obj\Debug\net6.0\solution.dll
+C:\Users\lollo\OneDrive\Рабочий стол\HW\finalWorkBlock1-main\solution\obj\Debug\net6.0\refint\solution.dll
+C:\Users\lollo\OneDrive\Рабочий стол\HW\finalWorkBlock1-main\solution\obj\Debug\net6.0\solution.pdb
+C:\Users\lollo\OneDrive\Рабочий стол\HW\finalWorkBlock1-main\solution\obj\Debug\net6.0\solution.genruntimeconfig.cache
+C:\Users\lollo\OneDrive\Рабочий стол\HW\finalWorkBlock1-main\solution\obj\Debug\net6.0\ref\solution.dll
